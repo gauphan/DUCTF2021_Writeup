@@ -13,7 +13,7 @@ With the corresponding output 'Ujyw5d4' in CHASET is 1,20,35,33,42,14,41
 Since n=len(CHASET)=47 and P. < x > = PolynomialRing(GF(n)), then we have a system of equations:
 
 
-[equation](http://www.sciweavers.org/upload/Tex2Img_1632741648/render.png)
+![equation](http://www.sciweavers.org/upload/Tex2Img_1632741648/render.png)
 
 And implementing we get:
 
