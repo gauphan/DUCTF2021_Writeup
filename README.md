@@ -1,6 +1,4 @@
-# DUCTF2021_Writeup
-
-Substitution Cipher II
+# DUCTF2021_Writeup_Substitution Cipher II
 
 
 My idea is to find the coefficients of the function f(x) by from the input 'DUCTF{}' with its corresponding output.txt file 'Ujyw5d4'. After finding the function f(x), along with the decrypt function in the solve.sage file, the flag of that exercise will be output.
