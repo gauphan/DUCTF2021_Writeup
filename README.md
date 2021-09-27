@@ -28,3 +28,5 @@ A.solve_right(b)
 output: a=41, b=15, c=40, d=9, a1=28, a2=27, a3=1
 
 After finding f(x), I wrote decrypt function in solve.sage file and used sagemath to find the flag but the 'f' in the flag had problem and I changed it to 'n' and finally the flag was "DUCTF{go0d_0l'_l4gr4ng3}"
+
+![equation](http://www.sciweavers.org/upload/Tex2Img_1632743147/render.png)
