@@ -6,6 +6,7 @@ To find the function coefficients f(x), I put f(x) in the general form:
 ![equation](http://www.sciweavers.org/upload/Tex2Img_1632743147/render.png)
 
 We have CHARSET = "DUCTF{}_!?'" + ascii_lowercase + digits
+
 ==> CHASET="DUCTF{}_!?'abcdefghijklmnopqrstuvwxyz0123456789"
 
 With input 'DUCTF{}' corresponding in CHASET is 0,1,2,3,4,5,6
