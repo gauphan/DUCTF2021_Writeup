@@ -11,7 +11,7 @@ We have CHARSET = "DUCTF{}_!?'" + ascii_lowercase + digits
 
 ==> CHASET="DUCTF{}_!?'abcdefghijklmnopqrstuvwxyz0123456789"
 
-With input 'DUCTF {}' the corresponding position in CHARSET is 0.1,2,3,4,5,6
+With input 'DUCTF {}' the corresponding position in CHARSET is 0,1,2,3,4,5,6
 
 With output 'Ujyw5d4' the corresponding position in CHARSET is 1,20,35,33,42,14,41
 
