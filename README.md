@@ -26,12 +26,12 @@ And implementing we get:
 
 To solve this system of equations I use sagemath in find_f.sage file:
 
-sage:A = matrix(GF(47), [[0,0,0,0,0,0,1],[1, 1, 1, 1, 1, 1,1],[64, 32, 16, 8 , 4, 2,1],[729, 243, 81
+sage: A = matrix(GF(47), [[0,0,0,0,0,0,1],[1, 1, 1, 1, 1, 1,1],[64, 32, 16, 8 , 4, 2,1],[729, 243, 81
  , 27, 9, 3,1],[4096, 1024, 256, 64, 16, 4,1],[15625, 3125, 625, 125, 25, 5,1],[46656, 7776, 1296, 216 , 36, 6,1]])
  
-sage:b = matrix(GF(47), [1,20, 35, 33, 42, 14, 41]).transpose()
+sage: b = matrix(GF(47), [1,20, 35, 33, 42, 14, 41]).transpose()
 
-sage:A.solve_right(b)
+sage: A.solve_right(b)
 
 output: a=41, b=15, c=40, d=9, a1=28, a2=27, a3=1
 
