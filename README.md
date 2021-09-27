@@ -11,9 +11,9 @@ We have CHARSET = "DUCTF{}_!?'" + ascii_lowercase + digits
 
 ==> CHASET="DUCTF{}_!?'abcdefghijklmnopqrstuvwxyz0123456789"
 
-With input 'DUCTF{}' corresponding in CHASET is 0,1,2,3,4,5,6
+With input 'DUCTF {}' the corresponding position in CHARSET is 0.1,2,3,4,5,6
 
-With the corresponding output 'Ujyw5d4' in CHASET is 1,20,35,33,42,14,41
+With corresponding output 'Ujyw5d4' position in CHARSET is 1,20,35,33,42,14,41
 
 Since n=len(CHASET)=47 and P. < x > = PolynomialRing(GF(n)), then we have a system of equations:
 
